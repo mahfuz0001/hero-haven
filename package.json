@@ -1,0 +1,47 @@
+{
+  "name": "hero-haven",
+  "version": "1.0.0",
+  "description": "Immerse yourself in an exciting RPG adventure with our Discord bot. Create your character, embark on quests, and engage in thrilling battles. Level up, unlock powerful abilities, and forge your legend in a dynamic and interactive fantasy world.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "currency": "node ./upload/currencyCMD.js"
+  },
+  "author": "Mahfuz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "airtable": "^0.11.5",
+    "chalk": "4.1.2",
+    "discord-api-types": "^0.37.14",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.13.0",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.7.0",
+    "mongoose": "^6.7.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0",
+    "openai-api": "^1.3.1",
+    "pretty-ms": "^8.0.0",
+    "ytdl-core": "^4.11.2"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "rpg",
+    "text-based",
+    "adventure",
+    "game",
+    "gaming",
+    "fantasy",
+    "role-playing",
+    "character",
+    "quests",
+    "battles",
+    "levels",
+    "interactivity"
+  ]
+}
