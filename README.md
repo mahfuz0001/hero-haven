@@ -1,19 +1,19 @@
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahfujul07&repo=spooky-bot&theme=dark" style="float: left; margin: 0px 10px 15px 1px;"/> <a style="font-size: 20px"> <a style="font-size: 30px">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahfuz0001&repo=hero-haven&theme=dark" style="float: left; margin: 0px 10px 15px 1px;"/> <a style="font-size: 20px"> <a style="font-size: 30px">
 </p>
 
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>GitHub Repository Statistics/Info:</b></a><br>
-    <img src="https://img.shields.io/github/issues/mahfujul07/spooky-bot?label=Issues&color=yellow">
-    <img src="https://img.shields.io/github/issues-closed/mahfujul07/spooky-bot?label=Issues%20Closed&color=32CD32">
+    <img src="https://img.shields.io/github/issues/mahfuz0001/hero-haven?label=Issues&color=yellow">
+    <img src="https://img.shields.io/github/issues-closed/mahfuz0001/hero-haven?label=Issues%20Closed&color=32CD32">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord Server:</b></a><br>
     <a href="https://discord.gg/npcmpRmdTU">
         <img src="https://img.shields.io/discord/988517708985430016.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     </a>
     <a style="font-size:15px;font-family:verdana"><b>GitHub Repository:</b></a><br>
-    <a href="https://github.com/mahfujul07/spooky-bot">
-        <img src="https://img.shields.io/github/repo-size/mahfujul07/spooky-bot?label=Repository%20Size&color=5865F2">
+    <a href="https://github.com/mahfuz0001/hero-haven">
+        <img src="https://img.shields.io/github/repo-size/mahfuz0001/hero-haven?label=Repository%20Size&color=5865F2">
     </a>
 </p>
 
